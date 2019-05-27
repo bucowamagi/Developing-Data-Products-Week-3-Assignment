@@ -1,1 +1,2 @@
-# Developing-Data-Products-Week-3-Assignment
+# ddp-week3
+Developing Data Products Week 3 Assignment
